@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1741710577 source:c:\users\laptop k1\desktop\c++\nhapdohoa\graphics.cpp
+	<SDL.h>
+	<SDL_image.h>
+	"Grahics.h"
+	"Defs.h"
+
+1741359843 c:\users\laptop k1\desktop\c++\nhapdohoa\grahics.h
+	<SDL.h>
+	<SDL_image.h>
+	"Defs.h"
+	<iostream>
+
+1741778451 c:\users\laptop k1\desktop\c++\nhapdohoa\defs.h
+
+1741711993 source:c:\users\laptop k1\desktop\c++\nhapdohoa\main.cpp
+	<iostream>
+	<cmath>
+	<SDL.h>
+	<SDL_image.h>
+	"Grahics.h"
+	"Defs.h"
+	"background.h"
+
+1741670094 c:\users\laptop k1\desktop\c++\nhapdohoa\background.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"Grahics.h"
+	"Defs.h"
+
+1741711590 source:c:\users\laptop k1\desktop\c++\nhapdohoa\background.cpp
+	<iostream>
+	<cmath>
+	<SDL.h>
+	<SDL_image.h>
+	"Grahics.h"
+	"Defs.h"
+	"background.h"
+
